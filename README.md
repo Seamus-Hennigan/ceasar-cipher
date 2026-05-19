@@ -51,7 +51,7 @@ Tested with **MinGW g++ (bundled with CLion)** on Windows.
 
 ### Steps
 1. Clone the repo:
-git clone https://github.com/Seamus-Hennigan/caesar-cipher.git
+git clone [https://github.com/Seamus-Hennigan/caesar-cipher.git](https://github.com/Seamus-Hennigan/ceasar-cipher)
 cd caesar-cipher
 2. Configure and build with CMake:
 cmake -B build
